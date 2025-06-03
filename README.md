@@ -1,4 +1,5 @@
 # Projeto-Power-BI-Analise-de-Producao-e-Manutencao
+Baixe o arquivo em formato 
 Dashboard criado para aprofundar conhecimentos em Power BI e KPI's de manufatura. 
 
 Este dashboard possui filtros interativos que permitem ao usuário analisar dados por operador de máquina ou por produto. 
